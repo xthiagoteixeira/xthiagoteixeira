@@ -1,13 +1,5 @@
 ### My name is Thiago, I'm a back-end developer! 💻📱
 
- <div>
-  <a href="https://github.com/xthiagoteixeira">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=xthiagoteixeira&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xthiagoteixeira&layout=compact&langs_count=7&theme=gotham"/>
-</div>
-
-  
-## 
  <h3>Technologies that I used in projects</h3>
 <div style="display: inline_block"><br>
    <img align="center" alt="thiago-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
@@ -39,3 +31,9 @@
 
  ## 
 </div>
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=xthiagoteixeira&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xthiagoteixeira&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xthiagoteixeira&theme=nord_dark) |
+| :-: | :-: | :-: |
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xthiagoteixeira&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=arthurspk&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
+| :-: | :-: |
