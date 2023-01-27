@@ -36,6 +36,7 @@
           📷 <a href="https://www.instagram.com/xthiagoteixeira/">Follow me on instagram</a>
         </li>
         <li>
+          ![image](https://user-images.githubusercontent.com/62726137/215215569-a361ddf1-f102-4689-be77-ae0338253d42.png)
           <a href="https://www.linkedin.com/in/thiagosilvateixeira">Follow me on Linkedin</a>   
         </li>
         <li>
