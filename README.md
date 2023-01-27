@@ -36,6 +36,9 @@
           📷 <a href="https://www.instagram.com/xthiagoteixeira/">Follow me on instagram</a>
         </li>
         <li>
+          <a href="https://www.linkedin.com/in/thiagosilvateixeira">Follow me on Linkedin</a>   
+        </li>
+        <li>
           📬 <a href=mailto:xthiagoteixeira@gmail.com>Contact-me on email</a>
         </li>
       </ul>
