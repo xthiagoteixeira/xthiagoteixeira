@@ -17,6 +17,34 @@
    </div> 
 
 
+
+<table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td style="border: 0";>
+      <img width="400" src="https://i.imgur.com/bXxIgrd.png" />
+    </td>
+    <td style="border: 0";>
+      <p>
+        💻 Project focused on quality content on programming and technology in general.
+      </p>
+      <h3>Other places you can find me</h3>
+      <ul>
+        <li>
+          🐦 <a href="https://twitter.com/xthiagoteixeira">Follow me on Twitter</a>
+        </li>
+        <li>
+          📷 <a href="https://www.instagram.com/xthiagoteixeira/">Follow me on instagram</a>
+        </li>
+        <li>
+          📬 <a href=mailto:xthiagoteixeira@gmail.com>Contact-me on email</a>
+        </li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+
+
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=xthiagoteixeira&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xthiagoteixeira&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xthiagoteixeira&theme=nord_dark) |
 | :-: | :-: | :-: |
 
