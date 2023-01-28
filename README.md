@@ -1,5 +1,3 @@
-<h4 align="center"> 
-   
 # My name is Thiago, I'm a back-end developer! 💻📱
    
    
@@ -37,8 +35,11 @@ Let's have a coffee, I'm always open to learn new things and discuss crazy ideas
      <img align="center" alt="thiago-AWS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg">
    </div> 
 
-<p>
 
+<p>
+<p>
+   
+   
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td style="border: 0";>
