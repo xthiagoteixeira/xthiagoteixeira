@@ -26,7 +26,7 @@ Let's have a coffee, I'm always open to learn new things and discuss crazy ideas
    <p>
    
  <h3>Technologies that I used in projects</h3>
-   <div style="display: inline_block"><br>
+   <div style="display: inline_block">
      <img align="center" alt="thiago-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
      <img align="center" alt="thiago-Csharp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
      <img align="center" alt="thiago-DotNet" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg">
@@ -34,9 +34,6 @@ Let's have a coffee, I'm always open to learn new things and discuss crazy ideas
      <img align="center" alt="thiago-Azure" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg">
      <img align="center" alt="thiago-AWS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg">
    </div> 
-
-
-<br>
    
    
 <table border="0" cellspacing="0" cellpadding="0">
