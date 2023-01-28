@@ -36,8 +36,7 @@ Let's have a coffee, I'm always open to learn new things and discuss crazy ideas
    </div> 
 
 
-<p>
-<p>
+<br>
    
    
 <table border="0" cellspacing="0" cellpadding="0">
