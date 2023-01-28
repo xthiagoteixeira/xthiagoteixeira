@@ -12,9 +12,7 @@
    <p>
    
    <div> 
-I'm passionate about technology! I had my first contact with computers when I was 14 years old and since then I've been discovering a little more about this wonderful area, I like the opportunity that technology offers people, and the proposal to make people's lives easier, I think that knowledge is something everyone should have access.
-
-I have knowledge in: AWS, Python, SQL, MySQL, Git, Linux, Windows.
+I'm passionate about technology! I had my first contact with computers when I was 14 years old and since then I've been discovering a little more about this wonderful area, I like the opportunity that technology offers people, and the proposal to make people's lives easier, I think that knowledge is something everyone should have access. I have knowledge in: AWS, Python, SQL, MySQL, Git, Linux, Windows.
 
 I dedicate myself to becoming a full-stack developer.
 
