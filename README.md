@@ -1,11 +1,16 @@
 # My name is Thiago, I'm a back-end developer! 💻📱
+<p>
 <h4 align="center">   
+   
    <div> 
   <a href="https://instagram.com/xthiagoteixeira" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/thiagosilvateixeira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://twitter.com/xthiagoteixeira" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
    </div>
 
+   <p>
+   
+   <div> 
 I'm passionate about technology! I had my first contact with computers when I was 14 years old and since then I've been discovering a little more about this wonderful area, I like the opportunity that technology offers people, and the proposal to make people's lives easier, I think that knowledge is something everyone should have access.
 
 I have knowledge in: AWS, Python, SQL, MySQL, Git, Linux, Windows.
@@ -15,7 +20,10 @@ I dedicate myself to becoming a full-stack developer.
 Let's have a coffee, I'm always open to learn new things and discuss crazy ideas. You can reach me at xthiagoteixeira@gmail.com
 
 "The true soldier does not fight because he hates what is in front of him, but because he loves what is behind him." - G. K. Chesterton
-
+   </div>
+   
+   <p>
+   
  <h3>Technologies that I used in projects</h3>
    <div style="display: inline_block"><br>
      <img align="center" alt="thiago-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
@@ -26,7 +34,7 @@ Let's have a coffee, I'm always open to learn new things and discuss crazy ideas
      <img align="center" alt="thiago-AWS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg">
    </div> 
 
-
+<p>
 
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
