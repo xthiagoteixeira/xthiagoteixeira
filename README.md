@@ -1,6 +1,9 @@
+<h4 align="center"> 
+   
 # My name is Thiago, I'm a back-end developer! 💻📱
+   
+   
 <p>
-<h4 align="center">   
    
    <div> 
   <a href="https://instagram.com/xthiagoteixeira" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
