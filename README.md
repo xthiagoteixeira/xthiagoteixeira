@@ -25,7 +25,7 @@ Let's have a coffee, I'm always open to learn new things and discuss crazy ideas
    
    <p>
    
- <h3>Technologies that I used in projects</h3>
+ <center><h3>Technologies that I used in projects</h3>
    <div style="display: inline_block">
      <img align="center" alt="thiago-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
      <img align="center" alt="thiago-Csharp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
