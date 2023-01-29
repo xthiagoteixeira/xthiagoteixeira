@@ -30,38 +30,7 @@ I dedicate myself to becoming a full-stack developer.
      <img align="center" alt="thiago-AWS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg">
    </div> 
    
-<br><br>   
-   
-<table border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td style="border: 0";>
-      <img width="400" src="https://i.imgur.com/bXxIgrd.png" />
-    </td>
-    <td style="border: 0";>
-      <p>
-        💻 Project focused on quality content on programming and technology in general.
-      </p>
-      <h3>Other places you can find me</h3>
-      <ul>
-        <li>
-          🐦 <a href="https://twitter.com/xthiagoteixeira">Follow me on Twitter</a>
-        </li>
-        <li>
-          📷 <a href="https://www.instagram.com/xthiagoteixeira/">Follow me on instagram</a>
-        </li>
-        <li>
-           <img width="15" src="https://user-images.githubusercontent.com/62726137/215216240-9487fbb0-34b9-4a5b-a713-5768fe0a2e2a.png" />
-          <a href="https://www.linkedin.com/in/thiagosilvateixeira">Follow me on Linkedin</a>   
-        </li>
-        <li>
-          📬 <a href=mailto:xthiagoteixeira@gmail.com>Contact-me on email</a>
-        </li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-
+<br><br>      
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=xthiagoteixeira&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xthiagoteixeira&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xthiagoteixeira&theme=nord_dark) |
 | :-: | :-: | :-: |
