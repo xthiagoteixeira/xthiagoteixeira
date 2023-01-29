@@ -16,9 +16,6 @@ I'm passionate about technology! I had my first contact with computers when I wa
 
 I dedicate myself to becoming a full-stack developer.
 
-Let's have a coffee, I'm always open to learn new things and discuss crazy ideas. You can reach me at xthiagoteixeira@gmail.com
-
-"The true soldier does not fight because he hates what is in front of him, but because he loves what is behind him." - G. K. Chesterton
    </div>
    
    <p>
@@ -69,5 +66,5 @@ Let's have a coffee, I'm always open to learn new things and discuss crazy ideas
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=xthiagoteixeira&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xthiagoteixeira&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xthiagoteixeira&theme=nord_dark) |
 | :-: | :-: | :-: |
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xthiagoteixeira&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=arthurspk&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xthiagoteixeira&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=xthiagoteixeira&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
 | :-: | :-: |
