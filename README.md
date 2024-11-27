@@ -26,7 +26,7 @@ I dedicate myself to becoming a full-stack developer.
      <img align="center" alt="thiago-DotNet" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg">
      <img align="center" alt="thiago-Linux" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
      <img align="center" alt="thiago-Azure" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg">
-     <img align="center" alt="thiago-AWS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg">
+     <img align="center" alt="thiago-AWS" height="30" width="40" src="https://icons-for-free.com/iff/png/512/amazon+web+services+original+wordmark-1324760520640397251.png">
    </div> 
    
 <br><br>      
